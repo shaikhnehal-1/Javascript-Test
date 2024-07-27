@@ -86,7 +86,7 @@ function removeEvenNumbers(arr) {
   
   console.log(findLargest(3, 5, 1));
   
-  // **********************************************************
+  // ********************************************************
   
   // Q8: Write a function that takes a string and an optional character. The function should return the number of times the character appears in the string. If the character is not provided, count the number of spaces in the string.
   
